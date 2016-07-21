@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+}
+.caja1{
+	background: #EE3E64;
+}
+.caja2{
+	background: #44ACCF;
+}
+.caja3{
+	background: #B7D84B;
+}
